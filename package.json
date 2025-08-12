@@ -1,0 +1,29 @@
+{
+  "name": "the-journey-through-the-sky",
+  "version": "1.0.0",
+  "description": "Single-page 3D storytelling experience using React Three Fiber",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@react-three/fiber": "^8.15.11",
+    "@react-three/drei": "^9.88.13",
+    "@react-three/postprocessing": "^2.15.11",
+    "three": "^0.158.0",
+    "@react-spring/three": "^9.7.3",
+    "@react-spring/web": "^9.7.3",
+    "postprocessing": "^6.32.2",
+    "simplex-noise": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.1.1",
+    "vite": "^5.0.0"
+  }
+}
